@@ -3,7 +3,7 @@ Since I'm against github centralization, there are a lot of place where I work a
 **WARNING**: This repo and README.md file might be outdated, don't hesitate to checkout my different [links](https://links.eleos.space) to see what I'm doing of my life
 
 ## Personal place git.eleos.space:
-My personal place is https://git.eleos.space/eleos.
+My personal place is [git.eleos.space](https://git.eleos.space/eleos).
 
 You can find some small projects or information about what I use, like my [dotfiles](https://git.eleos.space/eleos/dotfiles) or my small [custom scripts](https://git.eleos.space/eleos/custom_scripts).
 
