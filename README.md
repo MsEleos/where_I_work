@@ -2,6 +2,8 @@ Since I'm against github centralization, there are a lot of place where I work a
 
 **WARNING**: This repo and README.md file might be outdated, don't hesitate to checkout my different [links](https://links.eleos.space) to see what I'm doing of my life
 
+For any information about any of my work, you can mail my at [contact at eleos dot space](mailto:contact@eleos.space)
+
 ## Personal place git.eleos.space:
 My personal place is [git.eleos.space](https://git.eleos.space/eleos).
 
